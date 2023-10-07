@@ -1,0 +1,39 @@
+/* Styla header */
+header {
+    background-image: url('din-header-bild.jpg');
+    background-size: cover;
+    height: 300px;
+}
+
+
+nav {
+    background-color: #ffffff;
+    color: #852d6b;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+body {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+    font-size: 20px; 
+}
+
+nav li {
+    display: inline;
+    margin: 0 20px;
+}
+
+section {
+    padding: 20px;
+}
+
+footer {
+    background-color: #000000;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
+
+
